@@ -17,3 +17,4 @@ plt.savefig("img_2_17_change/tsp{}".format(i+1))
 
 tsp2は部分的交叉と転座、tsp5は順序交叉と転座を用いている
 
+卒論で作ったやつ
